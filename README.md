@@ -1,5 +1,7 @@
 # IBMYes
 
+**new code commit by kangqf test**
+
 **测速节点已经停用，无法测试**
 
 **自动安装失效**
